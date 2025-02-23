@@ -1,6 +1,6 @@
 # AppCraftSecurity
 
-**AppCraftSecurity** We innovate here, just a playing ground.
+**AppCraftSecurity**  Just a playing ground for innovation.
 
 
 
