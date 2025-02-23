@@ -1,4 +1,4 @@
-# SGMTechConnect
+# AppCraftSecurity
 
 **SGMTechConnect** is a forward-thinking technology company focused on driving innovation in South Africa through IoT and smart city solutions.
 
